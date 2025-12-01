@@ -44,6 +44,10 @@ app.use((req, res) => {
 
 // Start server
 app.listen(PORT, () => {
-  console.log(`Server is running on port ${PORT}`);
-  console.log(`API URL: http://localhost:${PORT}`);
+  console.log(`\n=== Course Registration System ===`);
+  console.log(`Backend Server is running on port ${PORT}`);
+  console.log(`Backend API URL: http://localhost:${PORT}`);
+  console.log(`Frontend URL: http://localhost:3000/pages`);
+  console.log(`Database: PostgreSQL at localhost:5432`);
+  console.log(`===================================\n`);
 });
