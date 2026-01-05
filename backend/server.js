@@ -1,3 +1,5 @@
+//backend/server.js
+
 const express = require('express');
 const cors = require('cors');
 require('dotenv').config();
@@ -47,7 +49,7 @@ app.listen(PORT, () => {
   console.log(`\n=== Course Registration System ===`);
   console.log(`Backend Server is running on port ${PORT}`);
   console.log(`Backend API URL: http://localhost:${PORT}`);
-  console.log(`Frontend URL: http://localhost:3000/pages`);
+  console.log(`Frontend URL: http://localhost:3000`);
   console.log(`Database: PostgreSQL at localhost:5432`);
   console.log(`===================================\n`);
 });

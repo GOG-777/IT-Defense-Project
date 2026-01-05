@@ -1,3 +1,5 @@
+//frontend/js/courses-data.js
+
 // Comprehensive course database for all levels
 const coursesDatabase = {
     '100': {

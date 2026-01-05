@@ -1,3 +1,6 @@
+//frontend/js/auth.js
+
+
 // Password toggle functionality
 function initializePasswordToggles() {
     const toggleButtons = document.querySelectorAll('.password-toggle');

@@ -1,3 +1,5 @@
+//frontend/js/courses.js
+
 // Check if logged in
 if (!isLoggedIn()) {
     window.location.href = 'login.html';

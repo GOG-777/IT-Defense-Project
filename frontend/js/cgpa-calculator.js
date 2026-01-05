@@ -1,3 +1,5 @@
+//frontend/js/cgpa-calculator.js
+
 // Check if logged in
 if (!isLoggedIn()) {
     window.location.href = 'login.html';

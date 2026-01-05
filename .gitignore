@@ -34,3 +34,9 @@ logs/
 dist/
 build/
 database/
+
+# Personal files
+api_demo_portfolio.py
+api_demo.py
+api_discovery.py
+portfolio_demo.py

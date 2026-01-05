@@ -16,3 +16,7 @@ A full-stack Course Registration System built with modern web technologies inclu
 - **Database**: PostgreSQL
 - **Authentication**: JWT + bcrypt
 - **Containerization**: Docker
+
+**You can check out the react + vite version at:**
+
+https://github.com/GOG-777/course-registration-system-react-version
